@@ -1,0 +1,42 @@
+img{
+    width: 70%;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+article{
+    text-align: center;
+}
+.container-user1{
+    display: flex;
+    justify-content: center;
+}
+.container-user1 > article{
+    width: 50%;
+}
+nav{
+    padding: 1%;
+}
+.logo{
+    width: 45px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
+.footer-container{
+    margin-bottom: 20px;
+    width: 50%;
+    text-align: center;
+}
+.icons{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    border-bottom: solid 1px rgb(42, 42, 42);
+    padding: 2%;
+}
+.footer-container h1{
+    text-align: center;
+}
